@@ -1,2 +1,1 @@
-# aj.github.Al
-Algorithm and data structure examples
+This function implements Boyer Moore Horspool algorithm
